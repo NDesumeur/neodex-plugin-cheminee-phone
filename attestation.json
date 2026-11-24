@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.cheminee",
+  "repo": "NDesumeur/neodex-plugin-cheminee-phone",
+  "version": "1.0.0",
+  "sha256": "63dd5a10f99816ebe19897088cfb431923f760944b8ed8650f841fc83ff485a6",
+  "approvedAt": "2026-11-24T15:56:21.941Z",
+  "neobase": ">=4.0.0",
+  "signature": "f/pSnBet1IU+1s63yK/d9j/WfYAT1ROi32xXgiFuhy8U+I9/n9cbv7RQJTDz8k8AITCTgXLcLaJ2X0Jq+cJTCQ=="
+}
